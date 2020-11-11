@@ -1,0 +1,57 @@
+body{
+    background: #04eb77;
+}
+#fazenda{
+    height: 490px; /* lagurada imagem */
+    width: 100%; /* para a imagem ocupar a tela toda*/
+    
+}
+
+p {
+    text-align: center;
+    font-size:25px;
+}
+em strong {
+  color: black;  
+}
+strong{ 
+    color:black
+
+}
+.titulo-principal{
+    text-align:left;
+    padding: 0px;
+}
+.titulo-centralizado {
+
+    text-align: center; 
+    font-size:25px;
+    color: black;
+    font-style: italic;
+    padding: 20px;
+}
+
+.itens{
+    font-style: italic;
+    color:black
+}
+
+.beneficios {
+    background: #04eb77;
+    padding: 20px;
+}
+ul{
+    display: inline-block;
+    vertical-align: top; 
+  
+   
+}
+.imagemBeneficios{
+    height: 200px; 
+    width: 300px; 
+    display: inline-block;
+    vertical-align: super; 
+
+    
+
+}

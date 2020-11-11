@@ -1,0 +1,33 @@
+header{
+    background: rgb(143, 216, 143);
+    padding:20px 0 ;
+}
+.caixa{
+    position: relative;
+    width: 1000px;
+    margin:0 auto;
+    
+}
+nav {
+    position: absolute;
+    top:110px;
+    right:0;
+
+}
+
+nav li {
+    display: inline;
+    margin:0 0 0 20px; /* espaco entre os links */
+}
+nav a {
+    text-transform: uppercase; /* para deixar o texto em maiúsculo*/
+    color:black;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+}
+.imagem2{
+    position: relative;
+    width: 1000px;
+    margin:0 auto;
+}
